@@ -1,0 +1,30 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.jpg",
+            "title": "Rick and Morty",
+            "description": "React, JSX, Jest",
+            "url": "https://playful-gecko-2b6d3d.netlify.app/"
+            
+        },
+        {
+            "cover": "/portfolio/2/two.jpg",
+            "title": "Windows Site",
+            "description": "HTML, CSS, and JavaScript",
+            "url": "https://whimsical-bunny-d5dba3.netlify.app/"
+            
+        },
+        {
+            "cover": "/portfolio/3/three.jpg",
+            "title": "Uber",
+            "description": "HTML, CSS, and JavaScript",
+            "url": "https://willowy-hummingbird-eca836.netlify.app/" 
+        },
+        {
+            "cover": "/portfolio/4/four.jpg",
+            "title": "Memory Game",
+            "description": "React, JSX",
+            "url": "https://gorgeous-marshmallow-8e77ee.netlify.app/" 
+        }
+    ]
+}
