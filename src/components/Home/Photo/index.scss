@@ -1,0 +1,19 @@
+.photo-wrapper {
+    z-index: 0;
+    width: 400px;
+    height: 609px;
+    position: absolute;
+    top: 0;
+    right: 15%;
+    bottom: 0;
+    left: auto;
+    margin: auto;
+    // opacity: 0;
+    img {
+        width: 100%;
+        height: auto;
+        bottom: 0;
+        border-radius: 50%;
+        border: 5px solid #ffd700;
+    }
+}
