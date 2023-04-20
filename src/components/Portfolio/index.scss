@@ -109,6 +109,7 @@
         padding: 20px;
         box-sizing: border-box;
 
+
         h1.page-title {
             margin-left: 20px;
             margin-top: 20px;
@@ -120,6 +121,9 @@
             .content {
                 width: 80%;
             }
+        }
+        .images-container {
+            gap: 71px;
         }
     }
 }
