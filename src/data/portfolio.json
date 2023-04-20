@@ -2,9 +2,9 @@
     "portfolio": [
         {
             "cover": "/portfolio/1/one.jpg",
-            "title": "Rick and Morty",
-            "description": "React, JSX, Jest",
-            "url": "https://playful-gecko-2b6d3d.netlify.app/"
+            "title": "Marvel React Application",
+            "description": "React, JSX, Redux",
+            "url": "https://charming-cendol-273574.netlify.app/"
             
         },
         {
@@ -25,6 +25,12 @@
             "title": "Memory Game",
             "description": "React, JSX",
             "url": "https://gorgeous-marshmallow-8e77ee.netlify.app/" 
+        },
+        {
+            "cover": "/portfolio/5/five.jpg",
+            "title": "Rick and Morty",
+            "description": "React, JSX, Jest",
+            "url": "https://playful-gecko-2b6d3d.netlify.app/" 
         }
     ]
 }
